@@ -1,15 +1,15 @@
-import AboutMeMain from './components/aboutMeSection/aboutMeMain';
-import AchievementsMain from './components/Achievements/AchievementsMain';
-import ContactMeMain from './components/contactMeSection/ContactMeMain';
-import FooterMain from './components/footer/FooterMain';
-import HelperSection from './components/HelperSection';
-import HeroGradient from './components/heroSection/HeroGradient';
-import HeroMain from './components/heroSection/HeroMain';
-import SubHeroSection from './components/heroSection/SubHeroSection';
-import NavbarMain from './components/navbar/NavbarMain';
-import ProjectsMain from './components/projectsSection/ProjectsMain';
-import SkillsMain from './components/skillsSection/SkillsMain';
-import SubSkills from './components/skillsSection/SubSkills';
+import AboutMeMain from './components/aboutMeSection/AboutMeMain.jsx';
+import AchievementsMain from './components/Achievements/AchievementsMain.jsx';
+import ContactMeMain from './components/contactMeSection/ContactMeMain.jsx';
+import FooterMain from './components/footer/FooterMain.jsx';
+import HelperSection from './components/HelperSection.jsx';
+import HeroGradient from './components/heroSection/HeroGradient.jsx';
+import HeroMain from './components/heroSection/HeroMain.jsx';
+import SubHeroSection from './components/heroSection/SubHeroSection.jsx';
+import NavbarMain from './components/navbar/NavbarMain.jsx';
+import ProjectsMain from './components/projectsSection/ProjectsMain.jsx';
+import SkillsMain from './components/skillsSection/SkillsMain.jsx';
+import SubSkills from './components/skillsSection/SubSkills.jsx';
 
 function App() {
   return (
