@@ -10,7 +10,7 @@ const projects = [
         year: "November 2024",
         team: "Bitwise Coders",
         align: "left",
-        image: "../../public/images/icpc.png",
+        image: "../../src/images/icpc.png",
         link: "https://drive.google.com/file/d/1L-QmCuLKLcvg9biKDd8P5R6saDjUSu9Q/view?usp=drivesdk",
     },
     {
@@ -18,7 +18,7 @@ const projects = [
         year: "December 2024",
         team: "Code Cadets",
         align: "right",
-        image: "../../public/images/sih.jpeg",
+        image: "../../src/images/sih.jpeg",
         link: "https://drive.google.com/file/d/1nC3pR65o3K5cA3Cngw-lsW7PK9SDkjT9/view?usp=drivesdk",
     },
 ]
