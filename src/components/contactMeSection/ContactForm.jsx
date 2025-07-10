@@ -21,8 +21,8 @@ const ContactForm = () => {
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
-        emailjs.sendForm('service_4au3hi7', 'template_5c3ep78', form.current, {
-            publicKey: 'WxEEY43yCudRBrFew',
+        emailjs.sendForm('', '', form.current, {
+            publicKey: '',
         }).then (() => {
             setName('');
             setEmail('');
