@@ -1,12 +1,61 @@
-# React + Vite
+# 🌐 Pranay Gumashta — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This project showcases my skills, projects, and experiences in software development, built with modern web technologies to ensure speed, responsiveness, and visual impact.
 
-Currently, two official plugins are available:
+🔗 **Live Site**: [pranaygumashta.netlify.app](https://pranaygumashta.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React.js** – Component-based frontend
+- 🎨 **Tailwind CSS** – Utility-first styling
+- 💫 **Framer Motion** – Smooth animations
+- 🌐 **React Icons** – Icon library
+- 🔧 **Vite**
+- ☁️ **Deployed on Netlify**
+
+---
+
+## ✨ Features
+
+- 🔥 Fully responsive design for all devices
+- 🎞️ Eye-catching background animations
+- 🧠 Skills, project showcase, and achievements sections
+- 📬 Contact form with smooth scroll behavior
+
+---
+
+## 🛠️ Setup & Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+```
+
+---
+
+## 🚀 Deployment
+
+This project is **deployed on Netlify**:
+➡️ [https://pranaygumashta.netlify.app]
+
+---
+
+## 📬 Contact
+
+Feel free to reach out!
+
+* 📧 Email: [pranaygumashta@gmail.com]
+* 💼 LinkedIn: [linkedin.com/in/pranay-code24]
+* 🌐 Portfolio: [pranaygumashta.netlify.app]
+
+Designed & developed with ❤️ by **Pranay Gumashta**
