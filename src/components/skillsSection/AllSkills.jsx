@@ -68,7 +68,7 @@ const AllSkills = () => {
         <div className='flex items-center justify-center relative gap-2 max-w-[1200px] mx-auto'>
             {skills.map((item, index) => {
                 return (
-                    <motion.div variants={fadeIn('down', `0.${index}`)} initial="hidden" whileInView="show" viewport={{once:false, amount:0}}>
+                    <motion.div variants={fadeIn('down', `0.${index}`)} initial="hidden" whileInView="show" viewport={{once:true, amount:0}}>
                         <SingleSkill key={index} text={item.skill} imgSvg={<item.icon/>}/> 
                     </motion.div>
                 )

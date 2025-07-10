@@ -5,7 +5,7 @@ import {fadeIn} from '../../framerMotion/variants';
 
 const SingleAchievement = ({name, team, year, align, image, link}) => {
   return (
-    <motion.div variants={fadeIn('up', 0.2)} initial="hidden" whileInView="show" viewport={{once:false, amount:0}} className={`flex w-full flex-col-reverse items-center gap-8 ${align === 'left'? "md:flex-row" : "md:flex-row-reverse"} justify-end`}>
+    <motion.div variants={fadeIn('up', 0.2)} initial="hidden" whileInView="show" viewport={{once:true, amount:0}} className={`flex w-full flex-col-reverse items-center gap-8 ${align === 'left'? "md:flex-row" : "md:flex-row-reverse"} justify-end`}>
         <div>
             <h2 className='md:text-3xl text-2xl text-orange mb-2'>{name}</h2>
             <h2 className={`mb-1 text-xl font-thin text-white font-special text-center ${align === 'left'? "md:text-right": "md:text-left"}`}>Team : {team}</h2>

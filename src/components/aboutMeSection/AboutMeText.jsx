@@ -12,7 +12,7 @@ const AboutMeText = () => {
            sets me apart is a blend of technical depth, product thinking, and attention to detail. I’m always learning, iterating, and pushing 
            to turn good ideas into polished, production-ready solutions. Let’s build something impactful together!
         </p>
-        <Link to="projects" smooth={true} spy={true} duration={500} offset={-130} className='border border-orange rounded-full py-2 px-4 text-lg flex items-center mt-10 hover:bg-orange hover:text-darkBrown transition-all duration-500 cursor-pointer md:self-start self-center text-white hover:text-cyan'>My Projects</Link>
+        <Link to="projects" smooth={true} spy={true} duration={500} offset={-130} className='border border-orange rounded-full py-2 px-4 text-lg flex items-center mt-10 hover:bg-orange hover:text-darkBrown transition-all duration-500 cursor-pointer md:self-start self-center text-white'>My Projects</Link>
     </div>
   )
 }
